@@ -1,14 +1,11 @@
 /*
- * CS 2336.0U1 - Project 1 - API Calling/Pircbot
- * by Nikhita Kasana, net id nxk180001
  * 
  * This is the weatherCall class, which will call the API from 
- * openweathermap. The API key for my account is 4ac103f38364a3a932007ad244a16422
+ *
  * This calls the API based on the user's input, parses through the JSON to get
  * relevant information and stores it for the chatBot to access and relay
  * the information to the user.
- * 
- * Due 7/28/2019
+ *
  */
 
 
