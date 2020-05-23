@@ -1,15 +1,13 @@
 /*
- * CS 2336.0U1 - Project 1 - API Calling/Pircbot
- * by Nikhita Kasana, net id nxk180001
  * 
  * This is the newsCall class, which will call the API from newsapi.
- * My API key is 4a580707b39a4b049f1ca26b125ebbb8
+ * 
  * This calls the API and takes the first three news articles provided by the JSON
  * and gives the headlines to the user, as well as getting the url for the user
  * to click should they want to read more. It stores it in public variables so that
  * the chatBot can access it and relay the information to the user.
  * 
- * Due 7/28/2019
+ * 
  */
 
 
