@@ -1,13 +1,10 @@
 /*
- * CS 2336.0U1 - Project 1 - API Calling/Pircbot
- * by Nikhita Kasana, net id nxk180001
  * 
  * This is the chat bot (implementation of pircbot) that utilizes the
  * weatherCall class and the newsCall class to respond to the 
  * user with the corresponding information. The user can tell the program
  * to quit at any time.
  * 
- * Due 7/28/2019
  */
 
 
